@@ -3,7 +3,9 @@
 Aerial computer-vision traffic intelligence system — turns drone footage into a cinematic, machine-readable read on vehicle flow, density, and movement using a custom-trained detector, multi-object tracking, and OpenCV-based visualization.
 
 > **README under development / being drafted lol** — full setup instructions, usage, and demo coming soon.
-Demo - /falconet.gif
+
+#Demo - 
+![Alt Text]/falconet.gif
 
 ## Quick overview
 
